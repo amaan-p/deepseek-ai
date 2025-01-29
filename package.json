@@ -2,7 +2,7 @@
   "name": "deepseek-ai",
   "displayName": "Deepseek AI Chat Extension",
   "description": "DeepSeek AI integration for VS Code",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "AmaanPatel",
   "icon":"media/logo.png",
   "engines": {
