@@ -3,7 +3,7 @@
 Seamlessly integrate Deepseek's AI chat interface directly in your VS Code sidebar. No API keys needed - just sign in and start chatting!
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.png)](https://opensource.org/licenses/MIT)
-![Extension Preview](https://raw.githubusercontent.com/https://github.com/amaan-p/deepseek-ai/main/media/images.png)
+![Extension Preview](https://raw.githubusercontent.com/amaan-p/deepseek-ai/refs/heads/master/media/image.png)
 
 ## Features
 
