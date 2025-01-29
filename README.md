@@ -1,71 +1,57 @@
-# deepseek-ai README
+# Deepseek Chat for VS Code
 
-This is the README for your extension "deepseek-ai". After writing up a brief description, we recommend including the following sections.
+Seamlessly integrate Deepseek's AI chat interface directly in your VS Code sidebar. No API keys needed - just sign in and start chatting!
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.png)](https://opensource.org/licenses/MIT)
+![Extension Preview](media/image.png)
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- 🚀 Official Deepseek Chat interface embedded in VS Code
+- 🔑 No API keys required - just sign up at [chat.deepseek.com](https://chat.deepseek.com)
+- 🎨 Adapts to your VS Code theme
+- 💨 Fast and responsive sidebar integration
+- 🔒 Secure - direct communication with Deepseek servers
 
-For example if there is an image subfolder under your extension project workspace:
+## Quick Start
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Install the extension
+2. Click the Deepseek icon in the sidebar
+3. Sign in to your Deepseek account
+4. Start chatting!
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Privacy & Security
 
-## Requirements
+- This extension only embeds the official Deepseek chat interface
+- No data or credentials are stored by the extension
+- All communication happens directly with Deepseek's servers
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Open Source
 
-## Extension Settings
+This extension is completely open source. Feel free to:
+- ⭐ Star the repository
+- 🐛 Report issues
+- 🤝 Submit pull requests
+- 📝 Suggest features
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Contributing
 
-For example:
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
-This extension contributes the following settings:
+## Feedback
 
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+Your feedback helps make this extension better! Please:
+- Rate the extension
+- Report issues on GitHub
+- Leave feedback in the VS Code Marketplace
 
-## Known Issues
+## License
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
+[MIT](LICENSE)
 
 ---
-
-## Following extension guidelines
-
-Ensure that you've read through the extensions guidelines and follow the best practices for creating your extension.
-
-* [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+**Love the extension? [Buy me a coffee ☕](https://buymeacoffee.com/amaanpatel)**
