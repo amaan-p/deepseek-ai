@@ -1,6 +1,6 @@
 {
   "name": "deepseek-ai",
-  "displayName": "deepseek-ai-extension",
+  "displayName": "Deepseek Chat Extension",
   "description": "DeepSeek AI integration for VS Code",
   "version": "0.0.1",
   "engines": {
@@ -12,12 +12,24 @@
   "activationEvents": [],
   "main": "./out/extension.js",
   "contributes": {
-    "commands": [
-      {
-        "command": "deepseek-ai.helloWorld",
-        "title": "Hello World"
-      }
-    ]
+    "viewsContainers": {
+      "activitybar": [
+        {
+          "id": "deepseek-chat",
+          "title": "Deepseek Chat",
+          "icon": "media/icon.svg"
+        }
+      ]
+    },
+    "views": {
+      "deepseek-chat": [
+        {
+          "type": "webview",
+          "id": "deepseekChat.chatView",
+          "name": "Deepseek Chat"
+        }
+      ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run compile",
